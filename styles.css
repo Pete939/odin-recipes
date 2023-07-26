@@ -1,0 +1,25 @@
+* {
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightblue;
+    font: "Brush Scirpt MT", "Times New Roman", serif;
+    text-align: center;
+}
+
+.recipe {
+    margin: 100px 400px;
+    padding: 0;
+    background-color: white;
+    border: 2px solid darkred;
+    border-radius: 20px;
+}
+
+.recipe-content {
+    text-align: left;
+    padding-left: 50px;   
+}
